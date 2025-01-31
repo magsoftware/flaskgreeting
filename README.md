@@ -21,6 +21,11 @@ Finally create the environment:
 
 ```bash
 eb create flaskgreeting-env
+```
+
+This gives the following output:
+
+```bash
 Creating application version archive "app-ef4c-250131_145114855400".
 Uploading flaskgreeting/app-ef4c-250131_145114855400.zip to S3. This may take a while.
 Upload Complete.
