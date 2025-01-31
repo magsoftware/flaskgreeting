@@ -84,6 +84,7 @@ Environment creation takes about 5 minutes and creates the following resources:
 ### Cleanup
 
 ```bash
+eb terminate flaskgreeting-env
 
 ```
 
